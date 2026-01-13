@@ -16,7 +16,7 @@ Open `app/page.tsx`...
 
 ### Diagnostics
 
-You should see the folling list of problems.
+You should see the following list of problems.
 
 ```text
     ~/temp/demo_react_ts_eslint_tailwind_app/app/  10
